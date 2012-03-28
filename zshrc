@@ -10,13 +10,13 @@ ZSH_THEME="custom"
 
 #LC_CTYPE="zh_CN.UTF-8"
 
-#export XMODIFIERS="@im=ibus"
-#export GTK_IM_MODULE="ibus"
-#export QT_IM_MODULE="ibus"
+export XMODIFIERS="@im=ibus"
+export GTK_IM_MODULE="ibus"
+export QT_IM_MODULE="ibus"
 #
-export XMODIFIERS='@im=fcitx'
-export GTK_IM_MODULE=xim
-export QT_IM_MODULE=xim
+#export XMODIFIERS='@im=fcitx'
+#export GTK_IM_MODULE=xim
+#export QT_IM_MODULE=xim
 
 export EDITOR="vim"
 #ibus-daemon -r -d -x
